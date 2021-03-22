@@ -741,7 +741,7 @@ body {
     position: fixed;
     top: 0px;
     left: 0px;
-	margin: 100px 500px;
+	margin: 100px 625px;
     background-color: rgba(0,0,0,0.2);
     display: flex;
     justify-content: center;
@@ -751,9 +751,16 @@ body {
 	
 }
 .gift{
- width:300px;
+    width: 300px;
     height: 400px;
 }
+
+.gift2{
+        width: 300px;
+        height: 300px;
+    
+}
+
 .massage-box{
 	 width:420px;
     padding: 20px 10px;
